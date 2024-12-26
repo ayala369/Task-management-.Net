@@ -1,0 +1,18 @@
+﻿<Window x:Class="PL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+       
+        <Button Content="Handle Engineers" HorizontalAlignment="Left" VerticalAlignment="Top" Click="btnEngineers_Click"  Background="#FFC71585" Foreground="White" Padding="15,5" Margin="314,146,0,0" Height="79" Width="178"/>
+        <Button Content="Handle Tasks" HorizontalAlignment="Left" VerticalAlignment="Top" Click="btnTasks_Click" Background="#FFC71585" Foreground="White" Padding="15,5" Margin="88,146,0,0" Height="79" Width="170"/>
+        <Button Content="Engineers Initialization" HorizontalAlignment="Left" VerticalAlignment="Top" Click="btnEngineersInitialization_Click" Background="#FFC71585" Foreground="White" Padding="15,5" Margin="547,146,0,0" Height="79" Width="179"/>
+
+    </Grid>
+</Window>
+
+
