@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTask xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Task>
+    <Id>535</Id>
+    <Description>Making a diagram for the project</Description>
+    <Alias>Diagram</Alias>
+    <Engineerld>0</Engineerld>
+    <Milestone>true</Milestone>
+    <RequiredEffortTime>P1D</RequiredEffortTime>
+    <CreatedAt>2024-02-13T18:18:03.1250373+02:00</CreatedAt>
+    <Start>2024-02-13T18:18:03.1250373+02:00</Start>
+    <ScheduledDate>2024-04-09T18:18:03.1250373+03:00</ScheduledDate>
+    <Deadline>2024-04-13T18:18:03.1250373+03:00</Deadline>
+    <Complete>2024-03-27T18:18:03.1250373+02:00</Complete>
+    <ComplexityLevel>Novice</ComplexityLevel>
+  </Task>
+  <Task>
+    <Id>536</Id>
+    <Description>Distribution of duties to employees</Description>
+    <Alias>Jobs</Alias>
+    <Engineerld>0</Engineerld>
+    <Milestone>true</Milestone>
+    <RequiredEffortTime>P1D</RequiredEffortTime>
+    <CreatedAt>2024-02-13T18:18:03.1333826+02:00</CreatedAt>
+    <Start>2024-02-15T18:18:03.1333826+02:00</Start>
+    <ScheduledDate>2024-04-05T18:18:03.1333826+03:00</ScheduledDate>
+    <Deadline>2024-04-07T18:18:03.1333826+03:00</Deadline>
+    <Complete>2024-03-29T18:18:03.1333826+03:00</Complete>
+    <ComplexityLevel>Novice</ComplexityLevel>
+  </Task>
+  <Task>
+    <Id>537</Id>
+    <Description>Determining team meeting times</Description>
+    <Alias>Meetings</Alias>
+    <Engineerld>0</Engineerld>
+    <Milestone>true</Milestone>
+    <RequiredEffortTime>P1D</RequiredEffortTime>
+    <CreatedAt>2024-02-13T18:18:03.1352523+02:00</CreatedAt>
+    <Start>2024-02-13T18:18:03.1352523+02:00</Start>
+    <ScheduledDate>2024-04-06T18:18:03.1352523+03:00</ScheduledDate>
+    <Deadline>2024-04-09T18:18:03.1352523+03:00</Deadline>
+    <Complete>2024-03-21T18:18:03.1352523+02:00</Complete>
+    <ComplexityLevel>Competent</ComplexityLevel>
+  </Task>
+  <Task>
+    <Id>538</Id>
+    <Description>Planning the Project Phases</Description>
+    <Alias>Phases</Alias>
+    <Engineerld>0</Engineerld>
+    <Milestone>false</Milestone>
+    <RequiredEffortTime>P1D</RequiredEffortTime>
+    <CreatedAt>2024-02-13T18:18:03.1368173+02:00</CreatedAt>
+    <Start>2024-02-17T18:18:03.1368173+02:00</Start>
+    <ScheduledDate>2024-04-11T18:18:03.1368173+03:00</ScheduledDate>
+    <Deadline>2024-04-15T18:18:03.1368173+03:00</Deadline>
+    <Complete>2024-02-27T18:18:03.1368173+02:00</Complete>
+    <ComplexityLevel>AdvancedBeginner</ComplexityLevel>
+  </Task>
+  <Task>
+    <Id>539</Id>
+    <Description>measurement of lengths</Description>
+    <Alias>measurement</Alias>
+    <Engineerld>0</Engineerld>
+    <Milestone>false</Milestone>
+    <RequiredEffortTime>P1D</RequiredEffortTime>
+    <CreatedAt>2024-02-13T18:18:03.1383981+02:00</CreatedAt>
+    <Start>2024-02-14T18:18:03.1383981+02:00</Start>
+    <ScheduledDate>2024-04-07T18:18:03.1383981+03:00</ScheduledDate>
+    <Deadline>2024-04-10T18:18:03.1383981+03:00</Deadline>
+    <Complete>2024-03-05T18:18:03.1383981+02:00</Complete>
+    <ComplexityLevel>Competent</ComplexityLevel>
+  </Task>
+  <Task>
+    <Id>540</Id>
+    <Description>Planning work in the field</Description>
+    <Alias>Planning</Alias>
+    <Engineerld>0</Engineerld>
+    <Milestone>false</Milestone>
+    <RequiredEffortTime>P1D</RequiredEffortTime>
+    <CreatedAt>2024-02-13T18:18:03.1400484+02:00</CreatedAt>
+    <Start>2024-02-16T18:18:03.1400484+02:00</Start>
+    <ScheduledDate>2024-03-27T18:18:03.1400484+02:00</ScheduledDate>
+    <Deadline>2024-03-29T18:18:03.1400484+03:00</Deadline>
+    <Complete>2024-03-05T18:18:03.1400484+02:00</Complete>
+    <ComplexityLevel>Novice</ComplexityLevel>
+  </Task>
+  <Task>
+    <Id>541</Id>
+    <Description>Customer Service Management</Description>
+    <Alias>Customers</Alias>
+    <Engineerld>0</Engineerld>
+    <Milestone>false</Milestone>
+    <RequiredEffortTime>P1D</RequiredEffortTime>
+    <CreatedAt>2024-02-13T18:18:03.1417086+02:00</CreatedAt>
+    <Start>2024-02-16T18:18:03.1417086+02:00</Start>
+    <ScheduledDate>2024-03-28T18:18:03.1417086+02:00</ScheduledDate>
+    <Deadline>2024-03-29T18:18:03.1417086+03:00</Deadline>
+    <Complete>2024-03-06T18:18:03.1417086+02:00</Complete>
+    <ComplexityLevel>AdvancedBeginner</ComplexityLevel>
+  </Task>
+  <Task>
+    <Id>542</Id>
+    <Description>Account Management</Description>
+    <Alias>Accounts</Alias>
+    <Engineerld>0</Engineerld>
+    <Milestone>true</Milestone>
+    <RequiredEffortTime>P1D</RequiredEffortTime>
+    <CreatedAt>2024-02-13T18:18:03.1434691+02:00</CreatedAt>
+    <Start>2024-02-13T18:18:03.1434691+02:00</Start>
+    <ScheduledDate>2024-03-15T18:18:03.1434691+02:00</ScheduledDate>
+    <Deadline>2024-03-19T18:18:03.1434691+02:00</Deadline>
+    <Complete>2024-03-13T18:18:03.1434691+02:00</Complete>
+    <ComplexityLevel>Novice</ComplexityLevel>
+  </Task>
+  <Task>
+    <Id>543</Id>
+    <Description>Planning working hours</Description>
+    <Alias>Hours</Alias>
+    <Engineerld>0</Engineerld>
+    <Milestone>false</Milestone>
+    <RequiredEffortTime>P1D</RequiredEffortTime>
+    <CreatedAt>2024-02-13T18:18:03.1452365+02:00</CreatedAt>
+    <Start>2024-02-16T18:18:03.1452365+02:00</Start>
+    <ScheduledDate>2024-03-27T18:18:03.1452365+02:00</ScheduledDate>
+    <Deadline>2024-03-27T18:18:03.1452365+02:00</Deadline>
+    <Complete>2024-03-16T18:18:03.1452365+02:00</Complete>
+    <ComplexityLevel>AdvancedBeginner</ComplexityLevel>
+  </Task>
+  <Task>
+    <Id>544</Id>
+    <Description>Lighting Installation</Description>
+    <Alias>Lighting</Alias>
+    <Engineerld>0</Engineerld>
+    <Milestone>true</Milestone>
+    <RequiredEffortTime>P1D</RequiredEffortTime>
+    <CreatedAt>2024-02-13T18:18:03.1470898+02:00</CreatedAt>
+    <Start>2024-02-13T18:18:03.1470898+02:00</Start>
+    <ScheduledDate>2024-04-09T18:18:03.1470898+03:00</ScheduledDate>
+    <Deadline>2024-04-10T18:18:03.1470898+03:00</Deadline>
+    <Complete>2024-03-26T18:18:03.1470898+02:00</Complete>
+    <ComplexityLevel>Competent</ComplexityLevel>
+  </Task>
+  <Task>
+    <Id>545</Id>
+    <Description>room flooring</Description>
+    <Alias>flooring</Alias>
+    <Engineerld>0</Engineerld>
+    <Milestone>true</Milestone>
+    <RequiredEffortTime>P1D</RequiredEffortTime>
+    <CreatedAt>2024-02-13T18:18:03.1490145+02:00</CreatedAt>
+    <Start>2024-02-14T18:18:03.1490145+02:00</Start>
+    <ScheduledDate>2024-03-16T18:18:03.1490145+02:00</ScheduledDate>
+    <Deadline>2024-03-21T18:18:03.1490145+02:00</Deadline>
+    <Complete>2024-03-27T18:18:03.1490145+02:00</Complete>
+    <ComplexityLevel>Competent</ComplexityLevel>
+  </Task>
+</ArrayOfTask>
